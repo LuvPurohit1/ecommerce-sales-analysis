@@ -20,5 +20,5 @@ The dashboard highlights:
 - Regional sales and profit trends
 - Impact of discount on profit
 
-## 🚀 Conclusion
+## Conclusion
 This project demonstrates how data analysis can help identify business opportunities and improve profitability.
