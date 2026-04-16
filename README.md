@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis 📊
+# E-Commerce Sales Analysis
 
 ## Objective
 Analyze sales data to identify revenue drivers, profitable segments, and areas of loss.
